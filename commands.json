@@ -1,0 +1,27 @@
+{
+    "mastercommands" : {
+        "/rise" : "Display Jason summoning",
+        "/scanhome" : "Scan Whitelisted Connected Devices at Home",
+        "/scanhome_naked" : "Display with IPs",
+        "/scannetwork" : "Scan All Connecte00d Devices at Home",
+        "/scannetwork_naked" : "Display with IPs",
+        "/disturb" : "Disturb all Blacklisted accounts",
+        "/bullyenable" : "Enable Bully Mode",
+        "/bullydisable" : "Disable Bully Mode",
+        "/bullystatus" : "Check Bully Mode Status",
+        "/setbullylevel" : "Set the bully level of Jason",
+        "/bullylevels" : "Get the current bully level of Jason"
+        },
+    
+    "commands" : {
+        "/start" : "Let Jason say Hi!",
+        "/poke" : "Check if Jason is alive",
+        "/touch" : "Go ahead - press it",
+        "/MerryChristmas" : "Get your Christmas Help",
+        "/makeMyselfAdmin" : "Grant administrator rights to user",
+        "/bullystatus" : "Check Bully Mode Status",
+        "/bullylevels" : "Get the current bully level of Jason",
+        "/tellstory" : "Jason tells a tale",
+        "/comicIssue" : "e.g ASM 128"
+        }
+}
